@@ -6,7 +6,7 @@
 
 ```html
 
-<link rel="stylesheet" href="video-player.css">
+<link rel="stylesheet" href="style.css">
 
 <!-- OR from CDN -->
 
@@ -18,7 +18,7 @@
 
 ```html
 
-<script src="video-player.js"></script>
+<script src="script.js"></script>
 
 <!-- OR from CDN -->
 
@@ -162,7 +162,7 @@ The library automatically finds and initializes all elements with the `video-pla
 
 ## 🎨 Customization
 
-Edit `video-player.css` to customize:
+Edit `style.css` to customize:
 
 - Colors
 
